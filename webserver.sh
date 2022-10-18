@@ -29,4 +29,4 @@ echo 'restart serviço apache...'
 sudo systemctl restart apache2
 echo 'restart serviço apache ok...'
 
-echo 'seridor web OK!!!'
+echo 'servidor web OK!!!'
